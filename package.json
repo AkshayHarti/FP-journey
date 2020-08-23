@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AkshayHarti/FP-journey/issues"
   },
-  "homepage": "https://github.com/AkshayHarti/FP-journey#readme"
+  "homepage": "https://github.com/AkshayHarti/FP-journey#readme",
+  "dependencies": {
+    "esbuild": "^0.6.27"
+  }
 }
