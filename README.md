@@ -1,2 +1,5 @@
 # FP-journey
-This repo is an collection of JS programs mentioned in the questions segment of each chapter from the book
+This repo is a collection of JS programs that solve the questions segment of each chapter from the book
+
+### Mastering JavaScript Functional Programming
+_By Federico Kereki_
